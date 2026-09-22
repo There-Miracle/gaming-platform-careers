@@ -107,8 +107,6 @@ We are especially interested in candidates with experience in:
 
 ---
 
----
-
 ## Learn More
 
 📌 Project:
